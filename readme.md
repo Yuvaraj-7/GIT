@@ -14,3 +14,5 @@ A simple **XO (Tic Tac Toe)** game built using **HTML, CSS, and JavaScript**.
 - HTML
 - CSS
 - JavaScript
+
+THESE ARE ORANGES
